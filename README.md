@@ -15,6 +15,9 @@ LaTeX guide: <https://en.wikibooks.org/wiki/LaTeX>
 
 ```bash
 git config core.autoCrlf input
+git config rerere.enabled true
+git config fetch.prune true
+git config merge.conflictStyle diff3
 ```
 
 Install the following Visual Studio Code extensions:
