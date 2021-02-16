@@ -2,8 +2,13 @@
 [EditorConfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [LaTeX Workshop]: https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop
 [Remote - Containers]: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
+[miami-university-latex-project-template]: https://github.com/0x326/miami-university-latex-project-template
+[John Meyer]: https://github.com/0x326
 
 # miami-university-latex-project
+
+> Based on [miami-university-latex-project-template] by [John Meyer].
+> Licensed under the Unlicense
 
 Paper:
 
